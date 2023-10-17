@@ -1,12 +1,17 @@
+0x11. C - Print team project
 A collaborative project by Thomas and Keziah
 I'm not going anywhere. You can print that wherever you want to. I'm here and I'm a Spur for life
--Write a function that produces output according to a format.
 Education is when you read the fine print. Experience is what you get if you don't
--Handle the following conversion specifiers:
-
-d
-i
-You don’t have to handle the flag characters
-You don’t have to handle field width
-You don’t have to handle precision
-You don’t have to handle the length modifiers
+With a face like mine, I do better in print
+What one has not experienced, one will never understand in print
+Nothing in fine print is ever good news 
+My weakness is wearing too much leopard print
+How is the world ruled and led to war?
+The big print gives and the small print takes away
+Sarcasm is lost in print
+Print some money and give it to us for the rain forests
+The negative is the equivalent of the composer's score, and the print the performance
+It's depressing when you're still around and your albums are out of print
+Every time that I wanted to give up, if I saw an interesting textile, print what ever, suddenly I would see a collection
+Print is the sharpest and the strongest weapon of our party
+The flood of print has turned reading into a process of gulping rather than savoring
